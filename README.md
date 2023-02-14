@@ -35,6 +35,6 @@ Anki will only update differences in notes, while adding non-existing notes.
 The current deck includes the following courses and/or subjects:
 <ul>
 <li>Cognitie en Gedrag - Psychologie Jaar 1</li>
-<li>Klinische Neuropsycholog (2022/2023) - Deel 1 </li>
-<li>Sensation and Perception (2022/2023) - Chapters 1-4 </li>
+<li>Klinische Neuropsycholog (2022/2023) - Deel 1, Deel 2 (H7) </li>
+<li>Sensation and Perception (2022/2023) - Chapters 1-3 </li>
 </ul>
