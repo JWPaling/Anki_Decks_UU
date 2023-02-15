@@ -1,8 +1,6 @@
 # Utrecht University - Psychology (Anki Decks)
 In this online repository, you will find Anki decks created for different courses provided by Utrecht University, particularly for Psychology. Feel free to use them and provide feedback if you notice any inaccuracies, issues, or difficulties in understanding.
 
-Each week I will try to keep up with the current course time table. 
-
 CAUTION:
 Please note that these decks are manually created, and some information may be inaccurate, outdated, or incorrect. So, please let us know if you notice any errors in the decks.
 
