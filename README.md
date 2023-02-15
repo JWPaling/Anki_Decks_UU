@@ -1,3 +1,6 @@
+
+  
+
 # Utrecht University - Psychology (Anki Decks)
 In this online repository, you will find Anki decks created for different courses provided by Utrecht University, particularly for Psychology. Feel free to use them and provide feedback if you notice any inaccuracies, issues, or difficulties in understanding.
 
@@ -36,7 +39,30 @@ The current deck includes the following courses and/or subjects:
 <li>Klinische Neuropsychologie (2022/2023) - Deel 1, Deel 2 (H6-H7) </li>
 <li>Sensation and Perception (2022/2023) - Chapters 1-3 </li>
 </ul>
--
+  <h2> Overview </h2>
+    <table>
+      <tr>
+        <th>Course</th>
+        <th>Subjects / Chapters</th>
+        <th>Lectures</th>
+      </tr>
+      <tr>
+        <td>Cognitie en Gedrag</td>
+        <td> Compleet jaar 1 </td>
+        <td> Compleet </td>
+      </tr>
+      <tr>
+        <td>Klinische Neuropsychologie </td>
+        <td>Deel 1, Deel 2 (H6-H7)</td>
+        <td> Verwacht </td>
+      </tr>
+      <tr>
+        <td>Sensation and Perception</td>
+        <td>Chapters 1-3</td>
+        <td> To be expected </td>
+      </tr>
+  </table>
+     
 <ul>
 <li>Number of cards: 1362</li>
 <li>Number of notes: 1241</li>
@@ -47,3 +73,5 @@ The current deck includes the following courses and/or subjects:
 <body>
 AnkiCollab is a novel add-on with great potential to become a must-have. However, the current version of AnkiCollab has bugs that significantly impact the stability of decks. Therefore, decks must be manually updated via the Github repository. This process may require extra steps, but it ensures the stability of the decks.
 </body>
+  </html>
+    
