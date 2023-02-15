@@ -1,10 +1,10 @@
-# Anki_Decks_UU
-In this repository you will find Anki decks that are made by hand for different courses that are provide by Utrecht University, especially for Psychology. Feel free to use them, and comment if there is anything you might consider incorrect, disturbing, or difficult to understand
+# Utrecht University - Psychology (Anki Decks)
+In this online repository, you will find Anki decks created for different courses provided by Utrecht University, particularly for Psychology. Feel free to use them and provide feedback if you notice any inaccuracies, issues, or difficulties in understanding.
 
 Each week I will try to keep up with the current course time table. 
 
 CAUTION:
-Be aware that these decks are handmade, and that some information can be wrong, outdated, or misplaced. Therefore, mention any errors you think are apparent in the decks.
+Please note that these decks are manually created, and some information may be inaccurate, outdated, or incorrect. So, please let us know if you notice any errors in the decks.
 
 Extra links to Anki information:
 - https://faqs.ankiweb.net/
@@ -35,6 +35,17 @@ Anki will only update differences in notes, while adding non-existing notes.
 The current deck includes the following courses and/or subjects:
 <ul>
 <li>Cognitie en Gedrag - Psychologie Jaar 1</li>
-<li>Klinische Neuropsycholog (2022/2023) - Deel 1, Deel 2 (H7) </li>
+<li>Klinische Neuropsychologie (2022/2023) - Deel 1, Deel 2 (H6-H7) </li>
 <li>Sensation and Perception (2022/2023) - Chapters 1-3 </li>
 </ul>
+-
+<ul>
+<li>Number of cards: 1362</li>
+<li>Number of notes: 1241</li>
+<li>Last update: February 15</li>
+</ul>
+
+<h2> What about AnkiCollab?</h2>
+<body>
+AnkiCollab is a novel add-on with great potential to become a must-have. However, the current version of AnkiCollab has bugs that significantly impact the stability of decks. Therefore, decks must be manually updated via the Github repository. This process may require extra steps, but it ensures the stability of the decks.
+</body>
