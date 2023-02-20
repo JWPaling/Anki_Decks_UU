@@ -31,13 +31,13 @@ To update decks without losing personal notes added to cards, download the addon
 Anki will only update differences in notes, while adding non-existing notes.
 </body>
 
-<h2> Current deck (Week 7 -2023)</h2>
+<h2> Current deck (Week 8 -2023)</h2>
 <body>
 The current deck includes the following courses and/or subjects:
 <ul>
 <li>Cognitie en Gedrag - Psychologie Jaar 1</li>
-<li>Klinische Neuropsychologie (2022/2023) - Deel 1, Deel 2 (H6-H7) </li>
-<li>Sensation and Perception (2022/2023) - Chapters 1-3 </li>
+<li>Klinische Neuropsychologie (2022/2023) - Zie tabel </li>
+<li>Sensation and Perception (2022/2023) - See table </li>
 </ul>
   <h2> Overview </h2>
     <table>
