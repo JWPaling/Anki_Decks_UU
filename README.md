@@ -53,20 +53,20 @@ The current deck includes the following courses and/or subjects:
       </tr>
       <tr>
         <td>Klinische Neuropsychologie </td>
-        <td>Deel 1, Deel 2 (H6-H7)</td>
-        <td> Verwacht </td>
+        <td>Deel 1, Deel 2 (H6, H7, H12, H11)</td>
+        <td> HC1, HC2, HC3, HC5 </td>
       </tr>
       <tr>
         <td>Sensation and Perception</td>
-        <td>Chapters 1-3</td>
+        <td>Chapters 1, 2, 3, 5</td>
         <td> To be expected </td>
       </tr>
   </table>
      
 <ul>
-<li>Number of cards: 1362</li>
-<li>Number of notes: 1241</li>
-<li>Last update: February 15</li>
+<li>Number of cards: 1645</li>
+<li>Number of notes: 1489</li>
+<li>Last update: February 20, 2023</li>
 </ul>
 
 <h2> What about AnkiCollab?</h2>
