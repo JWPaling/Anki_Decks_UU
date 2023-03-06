@@ -31,7 +31,7 @@ To update decks without losing personal notes added to cards, download the addon
 Anki will only update differences in notes, while adding non-existing notes.
 </body>
 
-<h2> Current deck (Week 9 -2023)</h2>
+<h2> Current deck (Week 10 -2023)</h2>
 <body>
 The current deck includes the following courses and/or subjects:
 <ul>
@@ -58,15 +58,15 @@ The current deck includes the following courses and/or subjects:
       </tr>
       <tr>
         <td>Sensation and Perception</td>
-        <td>Chapters 1, 2, 3, 5</td>
-        <td> To be expected </td>
+        <td>Chapters 1, 2, 3, 4, 5, 6</td>
+        <td> L1, L3, </td>
       </tr>
   </table>
      
 <ul>
-<li>Number of cards: 2199</li>
-<li>Number of notes: 1691</li>
-<li>Last update: March 5, 2023</li>
+<li>Number of cards: 2218</li>
+<li>Number of notes: 1711</li>
+<li>Last update: March 6, 2023</li>
 </ul>
 
 <h2> What about AnkiCollab?</h2>
