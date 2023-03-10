@@ -53,7 +53,7 @@ The current deck includes the following courses and/or subjects:
       </tr>
       <tr>
         <td>Klinische Neuropsychologie </td>
-        <td>Deel 1, Deel 2</td>
+        <td>Deel 1, Deel 2, Deel 3 (H14, H15)</td>
         <td> HC1, HC2, HC3, HC5, HC6, HC7 </td>
       </tr>
       <tr>
@@ -64,9 +64,9 @@ The current deck includes the following courses and/or subjects:
   </table>
      
 <ul>
-<li>Number of cards: 2240</li>
-<li>Number of notes: 1733</li>
-<li>Last update: March 7, 2023</li>
+<li>Number of cards: 2319</li>
+<li>Number of notes: 1809</li>
+<li>Last update: March 10, 2023</li>
 </ul>
 
 <h2> What about AnkiCollab?</h2>
