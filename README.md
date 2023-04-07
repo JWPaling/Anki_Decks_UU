@@ -58,15 +58,15 @@ The current deck includes the following courses and/or subjects:
       </tr>
       <tr>
         <td>Sensation and Perception</td>
-        <td>Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14</td>
+        <td>Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15</td>
         <td> L1, L3, L4 </td>
       </tr>
   </table>
      
 <ul>
-<li>Number of cards: 2808</li>
-<li>Number of notes: 2292</li>
-<li>Last update: April 6, 2023</li>
+<li>Number of cards: 2851</li>
+<li>Number of notes: 2329</li>
+<li>Last update: April 7, 2023</li>
 </ul>
 
 <h2> What about AnkiCollab?</h2>
