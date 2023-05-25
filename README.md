@@ -65,14 +65,14 @@ The current deck includes the following courses and/or subjects:
       <tr>
         <td>Neuropsychologische Diagnostiek</td>
         <td>H4, H5, H6, H8, H11</td>
-        <td> HC2, HC3, HC5 </td>
+        <td> HC2, HC3, HC5, HC6, HC7 </td>
       </tr>
   </table>
 
 <ul>
-<li>Number of cards: 2954</li>
-<li>Number of notes: 2444</li>
-<li>Last update: May 22, 2023</li>
+<li>Number of cards: 2987</li>
+<li>Number of notes: 2477</li>
+<li>Last update: May 25, 2023</li>
 </ul>
 
 <h2> What about AnkiCollab?</h2>
